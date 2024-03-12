@@ -6,6 +6,8 @@ for ($i = 1 ; $i <= 6 ; $i++)
 
 // this was updated on git bash
 
+// hello this is yaseen
+
 
 {
     $y=$i-1;
