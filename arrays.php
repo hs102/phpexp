@@ -16,7 +16,7 @@ $arr3[]=100;
 $arr3[]=200;
 $arr3[]=300;
 
-echo  "<br> size of array 3 is 4". count ($arr3);
+echo  "<br> sizgite of array 3 is 4". count ($arr3);
 
 
 
